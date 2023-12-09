@@ -1,7 +1,5 @@
 # MAB
 
-# MAB
-
 The Multi-Armed Bandit (MAB) problem, a cornerstone in the study of decision-making under uncertainty, presents a scenario akin to a gambler choosing from multiple slot machines, each with unknown payout rates. This dilemma encapsulates the critical challenge of balancing exploration and exploitation. Rooted in probability and statistics, MAB problems have far-reaching implications in various domains, from optimizing online algorithms to guiding strategic choices in business and healthcare, where decision-makers must continually adapt to evolving environments with incomplete information.
 
 ## Overview
